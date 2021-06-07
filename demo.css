@@ -1,0 +1,35 @@
+
+.header{
+    height: 150px;
+    width:100%;
+    background: slateblue;
+}
+.left-section{
+    height: 400px;
+    width:200px;
+    background:red;
+    
+
+}
+.right-section{
+    height: 400px;
+    width:1000px;
+    background:greenyellow;
+    
+
+}
+.content{
+    height: 400px;
+}
+
+.footer{
+    height: 150px;
+    width:100px;
+    background:blueviolet;
+    
+
+}
+.body{
+    margin:0px;
+}
+

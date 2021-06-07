@@ -1,0 +1,42 @@
+.outer-box{
+    width: 100%;
+    height: 600px;
+    border:solid 5px;
+    border-color: darkred;
+    background :goldenrod;
+    color:indigo;
+    padding: 10px;
+
+}
+.box1{
+    height:30%;
+    width:40%;
+    background:black;
+    color:black;
+    float:left;
+    margin:10px;
+}
+.box2{
+    height:30%;
+    width:40%;
+    background: lavender;
+    color:black;
+    float:left;
+    margin:10px;
+}
+.box3{
+    height:30%;
+    width:40%;
+    background:blue;
+    color:black;
+    float:left;
+    margin:10px;
+}
+.box4{
+    height:30%;
+    width:40%;
+    background:yellow;
+    color:black;
+    float:left;
+    margin:10px;
+}
